@@ -26,6 +26,7 @@ java BacklogSorter
 - A terminal or command line (e.g., Git Bash, Command Prompt, or IntelliJ Terminal)
 
 ##Files Overview
+
 BacklogSorter.java – Main class; handles user interaction and logic
 VideoGame.java – Represents a game in the backlog
 GameCollection.java – Stores and manages the full game collection
@@ -39,9 +40,11 @@ Comparators:
   - ReverseComparator
 
 ##Dependencies
+
 No external libraries required — this project uses only standard Java libraries.
 
 ##Features
+
   - View games based on various filters
   - Mark games as "maybe" for later
   - Move backward and forward through suggestions
