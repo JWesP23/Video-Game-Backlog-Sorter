@@ -20,7 +20,7 @@ javac *.java
 java BacklogSorter
 ```
 
-### Requirements
+## Requirements
 
 - Java JDK 11 or higher
 - A terminal or command line (e.g., Git Bash, Command Prompt, or IntelliJ Terminal)
@@ -39,11 +39,11 @@ Comparators:
   - DatePurchasedComparator
   - ReverseComparator
 
-##Dependencies
+## Dependencies
 
 No external libraries required — this project uses only standard Java libraries.
 
-##Features
+## Features
 
   - View games based on various filters
   - Mark games as "maybe" for later
