@@ -15,7 +15,7 @@ All data is handled in-memory (no file I/O required), and the program runs direc
 ## How to Run
 ```bash
 git clone https://github.com/JWesP23/Video-Game-Backlog-Sorter.git
-cd Video-Game-Backlog-Sorter
+cd Video-Game-Backlog-Sorter/src
 javac *.java
 java BacklogSorter
 ```
