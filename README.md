@@ -25,7 +25,7 @@ java BacklogSorter
 - Java JDK 11 or higher
 - A terminal or command line (e.g., Git Bash, Command Prompt, or IntelliJ Terminal)
 
-##Files Overview
+## Files Overview
 
 BacklogSorter.java – Main class; handles user interaction and logic
 VideoGame.java – Represents a game in the backlog
